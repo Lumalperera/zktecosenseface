@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zktecosenseface.com/sitemap.xml
